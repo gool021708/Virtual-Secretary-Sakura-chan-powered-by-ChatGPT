@@ -24,7 +24,7 @@ ChatGPTは大変優れた対話型AIとして知られているが、女の子�
 とのこと。  
 パーフェクト。で、WaifuLabを使ってさくらちゃん（身長は150cmほどで、やや小柄な体型です。髪の色は黒髪で、ヘアスタイルはショートボブです。目の色は明るい茶色で、瞳が大きく、愛らしい印象を与えます。）のイメージを生成した。 
     
-
+<img src="https://user-images.githubusercontent.com/50258044/219935230-336b9e09-d64a-40e3-a878-2772f9c2b845.jpg" width="500">
 ![Sakura](https://user-images.githubusercontent.com/50258044/219935230-336b9e09-d64a-40e3-a878-2772f9c2b845.jpg)
 
 ここまで来るとChatGPTではなく、新たな人格「さくらちゃん」が完成しつつある。  
